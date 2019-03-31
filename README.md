@@ -1,7 +1,16 @@
-# test-mocha-project
-Simple project for fast magic tricks with Mocha 
+# Mocha project
 
-## This will help us in very short period:
-* to quickly check that that all configs are done correctly in order to set up a test project
-* to have a fast-path start with Mocha automation on a project
-* to share a clear environment for debugging
+> Pure Mocha project filled in with everything needed for a quick start of test automation with no headache
+
+## Whats inside?
+- Mocha 6.0.2
+- Async/Await support
+- chai assertion library 4.2.0
+- mssql 4.1.0
+
+## Installation of the project
+
+```bash
+npm i
+```
+

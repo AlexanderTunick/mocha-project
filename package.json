@@ -1,7 +1,7 @@
 {
   "name": "test-mocha-project",
   "version": "1.0.0",
-  "description": "for a quick configurations check",
+  "description": "ready-steady mocka project for a quick dive in test automation",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
